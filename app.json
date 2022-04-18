@@ -15,7 +15,7 @@
     "stack": "container",
     "env":{
         "AMDI_SESSION": {
-            "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
+            "description": "AMDI;;;eyJjbGllbnRJRCI6IloyS20yWm9ZNGJLQkhuMGhFbkFYNFE9PSIsInNlcnZlclRva2VuIjoiMUA1VE1lcVhaL3pjSTd2N05ydE5aWGpMQ01YOXdNWjJWcHZCWFRDS3ZsbjQvVE03N21GZWdudW5LSFNVeVR2eFY5NCs3dmhxcWhvTnFjWlE9PSIsImNsaWVudFRva2VuIjoiOW9QUmNyUmlKODAwdTJqanFuTjRzWWR2ZGttZ2xxZENVS2RPaFBWK1Jmdz0iLCJlbmNLZXkiOiJMRzc5cDBvdFp4Zlhjak9XWXdNZk5iNlVWRWRMZUNiZnl4aEJ3c1plR0YwPSIsIm1hY0tleSI6ImI2MUhZeUxHYTYxa21CQXNvODRyOW4wamJDU3FkTDAxNWdBTmZYSXlwRmc9In0=",
             "required": true
         },
         "ADD_MESSAGE": {
